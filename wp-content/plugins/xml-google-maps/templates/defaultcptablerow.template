@@ -1,0 +1,71 @@
+<tr>
+ <td>
+  <img src="%MARKERIMAGEURL%" style="border: none;" />
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %CHECKPOINTNUMBER%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %LATITUDE%
+ </td>     
+ <td style="text-align: right; padding-right: 10px;">
+  %LONGITUDE%
+ </td>       
+ <td style="text-align: right; padding-right: 10px;">
+  %ELEVATION%
+ </td>     
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTDISTANCE%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTTIME%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTMOVINGTIME%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTSPEED%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTMOVINGSPEED%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTMAXSPEED%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTCLIMBUP%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTCLIMBDOWN%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %PARTHEARTRATE%
+ </td>   
+ <td style="text-align: right; padding-right: 10px;">
+  %DISTANCE%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %TIME%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %MOVINGTIME%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %SPEED%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %MOVINGSPEED%
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  %MAXSPEED%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %CLIMBUP%
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  %CLIMBDOWN%
+ </td>   
+ <td style="text-align: right; padding-right: 10px;">
+  %HEARTRATE%
+ </td>              
+</tr>

@@ -1,0 +1,27 @@
+/* 
+    Document   : wp_enqueue_scriptwp_mmg_popup
+    Created on : 25 févr. 2011, 22:04:40
+    Author     : seb
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+th {
+    text-align: left;
+}
+ul {
+   list-style-type: none;
+}
+li {
+    float: left;
+}
+#display_album img {
+    width: 70px;
+}
+.separator {
+    clear: both;
+}
+#link .panel_wrapper, #link div.current {
+    height: auto;
+}

@@ -1,0 +1,105 @@
+<table style="width: %WIDTH%px; border: thin solid #000000; margin-bottom: 10px;">
+ <tr style="font-weight: bold;">
+  <td style="text-align: right; padding-right: 10px;">
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   #
+  </td> 
+  <td style="text-align: right; padding-right: 10px;">
+   Latitude
+  </td>  
+  <td style="text-align: right; padding-right: 10px;">
+   Longitude
+  </td>  
+  <td style="text-align: right; padding-right: 10px;">
+   Elevation
+  </td>     
+  <td style="text-align: right; padding-right: 10px;">
+   Partdistance
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Parttime
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Partmovingtime
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Partspeed
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Partmovingspeed
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Partmaxspeed
+  </td>  
+     <td style="text-align: right; padding-right: 10px;">
+   Part Climb Up
+  </td>
+     <td style="text-align: right; padding-right: 10px;">
+   Part Climb Down
+  </td>  
+  <td style="text-align: right; padding-right: 10px;">
+   Part Heart Rate
+  </td>    
+  <td style="text-align: right; padding-right: 10px;">
+   Distance
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Time
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Movingtime
+  </td>  
+  <td style="text-align: right; padding-right: 10px;">
+   Speed
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Movingspeed
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Max Speed
+  </td>
+  <td style="text-align: right; padding-right: 10px;">
+   Climb Up
+  </td>
+     <td style="text-align: right; padding-right: 10px;">
+   Climb Down
+  </td>
+     <td style="text-align: right; padding-right: 10px;">
+   Heart Rate
+  </td>  
+ </tr>
+%ROW%
+<tr>
+ <td colspan="14" style="text-align: right; padding-right: 10px;">
+  <b>Summary</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%DISTANCE%</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%TIME%</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%MOVINGTIME%</b>
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%SPEED%</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%MOVINGSPEED%</b>
+ </td> 
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%MAXSPEED%</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%CLIMBUP%</b>
+ </td>
+ <td style="text-align: right; padding-right: 10px;">
+  <b>%CLIMBDOWN%</b>
+ </td>   
+  <td style="text-align: right; padding-right: 10px;">
+  <b>%HEARTRATE%</b>
+ </td>    
+</tr>
+</table>

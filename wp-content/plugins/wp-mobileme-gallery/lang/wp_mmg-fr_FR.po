@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP MobileMe Gallery 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-16 14:14+0100\n"
+"PO-Revision-Date: 2011-09-16 14:15+0100\n"
+"Last-Translator: Sébastien Gillard <contact@sebastiengillard.fr>\n"
+"Language-Team: Sébastien Gillard <seb.grd@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-SearchPath-0: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery\n"
+"X-Poedit-SearchPath-1: /Users/seb/NetBeansProjects/wp-mobileme-gallery\n"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:192
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:195
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:527
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:192
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:195
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:527
+msgid "Photos"
+msgstr "Photos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:192
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:535
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:654
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:192
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:535
+msgid "Movies"
+msgstr "Films"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:430
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:746
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:430
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:746
+msgid "No items."
+msgstr "Aucun élément"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:458
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:472
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:458
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:472
+msgid "Posted on"
+msgstr "Publié le"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:539
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:584
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:629
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:539
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:584
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:629
+msgid "© All rights reserved"
+msgstr "© Tous droits réservés"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:541
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:586
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:541
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:586
+msgid "View in my Mobileme gallery"
+msgstr "Voir dans ma galerie MobileMe"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:575
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:581
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:575
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:581
+msgid "Previous"
+msgstr "Précédent"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:575
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:581
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:575
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:581
+msgid "< Previous"
+msgstr "< Précédent"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:700
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:700
+msgid "Duration: "
+msgstr "Durée: "
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:832
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:832
+msgid "No films in the gallery"
+msgstr "Pas de video dans la galerie"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg.class.php:852
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg.class.php:852
+msgid "No movies in the gallery"
+msgstr "Pas de film dans la galerie"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:107
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:107
+msgid "There is no theme installed"
+msgstr "Aucun theme installé"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:121
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:121
+msgid "The entered login is not valid"
+msgstr "Le login entré n'est pas valide"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:145
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:145
+msgid "You must enter a login to configure this plugin"
+msgstr "Vous devez entrer un login pour configurer le plugin"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:269
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:269
+msgid "Options saved"
+msgstr "Options sauvées"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:279
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:279
+msgid "Default Options restored"
+msgstr "Options par défaut restaurées"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:299
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:308
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:299
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:308
+msgid "MobileMe information"
+msgstr "Informations MobileMe"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:300
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:318
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:300
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:318
+msgid "General Options"
+msgstr "Options Générales"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:301
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:356
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:301
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:356
+msgid "Gallery Options"
+msgstr "Options des Galeries"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:302
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:496
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:302
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:496
+msgid "Album Options"
+msgstr "Options des Albums"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:303
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:576
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:303
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:576
+msgid "Photo Options"
+msgstr "Options des Photos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:304
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:612
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:304
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:612
+msgid "Video Options"
+msgstr "Options des Vidéos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:311
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:311
+msgid "User Login"
+msgstr "Login utilisateur"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:321
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:321
+msgid "Theme"
+msgstr "Thème"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:329
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:329
+msgid "Display Copyright"
+msgstr "Afficher le copyright"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:334
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:334
+msgid "Display link to the Mobileme Gallery"
+msgstr "Afficher le lien vers la galerie MobileMe"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:339
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:339
+msgid "Use a local database to store the gallery"
+msgstr "Utiliser la base de donnée locale pour sauvegarder la galerie"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:344
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:344
+msgid "Minimum intervalle between 2 updates (in hours)"
+msgstr "Intervalle minimum entre 2 mises à jours (en heures)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:348
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:348
+msgid "Update the whole database each time an update is necessary"
+msgstr "Mettre à jour toute la base de donnée à chaque mise à jour"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:359
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:499
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:359
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:499
+msgid "General"
+msgstr "Options Générales"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:362
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:362
+msgid "Limit of albums displayed (0 = no limit)"
+msgstr "Limite du nombre d'albums affichés (0 = aucune limite)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:366
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:506
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:366
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:506
+msgid "Number of colums"
+msgstr "Nombre de colonnes"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:370
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:510
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:362
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:469
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:580
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:622
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:370
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:510
+msgid "Display"
+msgstr "Affichage"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:373
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:513
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:630
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:365
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:479
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:625
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:373
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:513
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:630
+msgid "Display thumbnail"
+msgstr "Afficher les aperçus"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:378
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:518
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:599
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:635
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:372
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:486
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:583
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:632
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:378
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:518
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:599
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:635
+msgid "Display title"
+msgstr "Afficher le titre"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:383
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:383
+msgid "Display info (number of images)"
+msgstr "Afficher les infos (nombre de photos)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:388
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:523
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:604
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:644
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:380
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:494
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:587
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:636
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:388
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:523
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:604
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:644
+msgid "Display description"
+msgstr "Afficher la description"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:393
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:528
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:347
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:472
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:393
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:528
+msgid "Display movies"
+msgstr "Afficher les films"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:398
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:538
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:384
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:498
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:559
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:398
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:538
+msgid "Format"
+msgstr "Format"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:401
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:541
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:385
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:499
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:401
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:541
+msgid "Size of the photos thumbnails"
+msgstr "Taille des aperçus des photos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:417
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:402
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:516
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:417
+msgid "Size of the movies thumbnails"
+msgstr "Taille des aperçus des vidéos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:433
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:419
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:433
+msgid "Size of the linked movies"
+msgstr "Taille des vidéos liées"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:449
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:449
+msgid "Displayed albums"
+msgstr "Albums affichés"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:466
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:488
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:466
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:488
+msgid "Your gallery is empty"
+msgstr "Votre galerie est vide"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:471
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:471
+msgid "Displayed movies"
+msgstr "Films affichés"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:502
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:502
+msgid "Limit of photos displayed (0 = no limit)"
+msgstr "Limite du nombre de photos affichées (0 = aucune limite)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:533
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:533
+msgid "Display info (duration of videos)"
+msgstr "Afficher les infos (durée des vidéos)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:557
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:557
+msgid "Size of the films thumbnails"
+msgstr "Taille des aperçus des films"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:579
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:579
+msgid "Size of the pictures"
+msgstr "Taille des images"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:595
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:595
+msgid "Size of the pictures (auto, px or %)"
+msgstr "Taille des images (auto, px ou %)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:615
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:615
+msgid "Size of the movies"
+msgstr "Taille des vidéos liées"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:640
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:376
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:490
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:640
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:640
+msgid "Display info"
+msgstr "Afficher les Infos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:649
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:649
+msgid "Display download link (when video is not displayed)"
+msgstr "Afficher le lien de téléchargement (quand la vidéo n'est pas affichée)"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:656
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:656
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_options.php:657
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_options.php:657
+msgid "Default"
+msgstr "Défaut"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_plugin.php:39
+#: /Users/seb/NetBeansProjects/wp-mobileme-gallery/wp_mmg_plugin.php:39
+msgid "WP Mobileme Gallery"
+msgstr "WP Mobileme Gallery"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_widget.php:33
+msgid "Latest Photos"
+msgstr "Dernières Photos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_widget.php:58
+msgid "Title:"
+msgstr "Titre :"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_widget.php:59
+msgid "Limit:"
+msgstr "Limite :"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/wp_mmg_widget.php:60
+msgid "Thumbnail size:"
+msgstr "Taille des aperçus"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:8
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup_content.php:9
+msgid "You are not allowed to be here"
+msgstr "Vous n'êtes pas autorisé à être sur cette page"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:327
+msgid "Gallery"
+msgstr "Galerie"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:328
+msgid "Album"
+msgstr "Album"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:329
+msgid "Photo"
+msgstr "Photo"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:330
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:648
+msgid "Video"
+msgstr "Vidéo"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:331
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:668
+msgid "Login"
+msgstr "Login utilisateur"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:341
+msgid "Type"
+msgstr "Type"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:343
+msgid "Display Photos"
+msgstr "Afficher les Photos"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:352
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:459
+msgid "Limit"
+msgstr "Limite"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:357
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:464
+msgid "Number of column"
+msgstr "Nombre de colonnes"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:443
+msgid "Select an album"
+msgstr "Sélectionnez un album"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:540
+msgid "Select a gallery"
+msgstr "Sélectionnez une galerie"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:542
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup_content.php:39
+msgid "-- Choose an album --"
+msgstr "-- Choisir un album --"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:554
+msgid "Photo id"
+msgstr "Id Photo "
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:575
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:606
+msgid "Size"
+msgstr "Taille"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:601
+msgid "Video Id"
+msgstr "Id vidéo"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:644
+msgid "Download link"
+msgstr "Lien de téléchargement"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:681
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /Users/seb/Sites/sebastiengillard/wp-content/plugins/wp-mobileme-gallery/tinymce/popup.php:685
+msgid "Insert"
+msgstr "Insérer"
+
+#~ msgid "Connection to the server impossible"
+#~ msgstr "Connection au server impossible"
+
+#~ msgid " min"
+#~ msgstr " min"
+
+#~ msgid "Display Thumbnail"
+#~ msgstr "Afficher les aperçus"
+
+#~ msgid "Display Title"
+#~ msgstr "Afficher les titres"
+
+#~ msgid "Display Movies"
+#~ msgstr "Afficher les Films"

@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wp_mmg * {
+    font-size: 12px;
+    z-index: 1;
+    position: relative;
+    text-align:center;
+    display:block;
+    margin:0;
+    padding:0;
+}
+#wp_mmg {
+    width: 100%;
+}
+wp_mmg:last-child:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  overflow:hidden;
+}
+#wp_mmg .element {
+    float:left;
+}
+#wp_mmg.gallery .mask {
+    display: inline-block;
+    border:#000 solid medium;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    -moz-box-shadow: 0 0 5px 5px #888;
+    -webkit-box-shadow: 0 0 5px 5px#888;
+    box-shadow: 0 0 5px 5px #888;
+    overflow:hidden;
+}
+#wp_mmg.gallery img {
+    margin:auto;
+    border:#666 solid medium;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+#wp_mmg.album .mask {
+    height:110px;
+}
+#wp_mmg.album img {
+    border:#000 solid medium;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    max-width:150px;
+    max-height:100px;
+    margin:auto;
+}
+#wp_mmg .infos {
+    height:50px;
+    margin-bottom: 10px;
+}
+wp_mmg .infos:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  overflow:hidden;
+}
+#wp_mmg .title {
+    color:#000;
+    font-size:14px;
+    line-height:16px;
+    max-height: 16px;
+    overflow: hidden;
+}
+#wp_mmg .title:hover {
+    z-index: 10;
+    height:auto;
+    overflow: visible;
+}
+#wp_mmg .sub-title {
+    color:#666;
+    font-size:10px;
+    line-height:10px;
+    height:10px;
+    overflow: hidden;
+}
+#wp_mmg .sub-title:hover {
+    z-index: 10;
+    height:auto;
+    overflow: visible;
+}
+.previous {
+    clear:both;
+    font-size:16px;
+    height:28px;
+    line-height:28px;
+    text-shadow: #666 1px 1px 5px;
+}
+#mmg_link {
+    clear: both;
+    float: right;
+    background: url(mobileme_logo.png) left no-repeat;
+    padding-left: 20px;
+    font-size: 10px;
+}
+#mmg_copyright {
+    font-size: 10px;
+    clear: both;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.widget-container.widget_wp_mmg_config a {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.widget-container.widget_wp_mmg_config img {
+    border:#000 solid medium;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,12 @@
+<a href='%FULLPATH%' target='_blank'>
+   <img src='%THUMBPATH%' style='border: 0; float: left; margin: 5px;' />
+</a>
+<p class='entry' style='float: left; margin: 5px; width: 250px;'>
+   <b>%TITLE%</b><br />
+   %DESCRIPTION%
+</p>
+<p style='clear:left; margin: 5px;' class='entry'>
+   <small>
+      %CREATIONDATE% - %LATITUDE% - %LONGITUDE% - <a href='http://www.matusz.ch/blog/projekte/xml-google-maps-wordpress-plugin/' target='_blank'>XML Google Maps WP Plugin</a>
+   </small>
+</p>
