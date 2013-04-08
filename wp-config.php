@@ -19,13 +19,13 @@
 define('DB_NAME', 'apeborgu_wp1');
 
 /** MySQL database username */
-define('DB_USER', 'apeborgu_wp1');
+define('DB_USER', 'mastersa');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Li5sjaleTyKP2');
+define('DB_PASSWORD', 'Kerrang!');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'aws-rds-apeb.cff0v2jjph3v.eu-west-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
